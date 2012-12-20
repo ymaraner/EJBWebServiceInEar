@@ -19,7 +19,7 @@ public class HelloWorld {
         // TODO Auto-generated constructor stub
     }
     
-    String sayHello() {
+    public String sayHello() {
     	return "Hello";
     }
 

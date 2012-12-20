@@ -19,7 +19,7 @@ public class GoodbyeWorld {
         // TODO Auto-generated constructor stub
     }
     
-    String sayGoodbye() {
+    public String sayGoodbye() {
     	return "Goodbye";
     }
 
